@@ -1,3 +1,3 @@
 # monke-game
 
-MIJN BRANGE
+Ik steek iedereen die iets verneukt
