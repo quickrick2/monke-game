@@ -1,5 +1,0 @@
-monkey == angry 
-because grandma == bad 
-monkey == kill grandma 
-map == tropical island 
-monkey == winn
